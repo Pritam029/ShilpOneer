@@ -172,8 +172,4 @@ This project was bootstrapped with **Create React App**.
 * [Code Splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 * [Deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
----
 
-👉 I’ve converted **everything into neat bullet points** but kept your original content intact.
-
-Do you also want me to **make a shorter “One-page README version”** (just essentials: features, setup, usage) for GitHub, and keep this long one as **detailed docs**?
