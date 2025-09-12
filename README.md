@@ -56,7 +56,7 @@ ShilpOneer/
 * Configure environment → create `.env` in `server/` (if not already present):
 
   ```env
-  MONGODB_URI=mongodb://localhost:27017/shilpioneer
+  MONGODB_URI=mongodb://localhost:27017/shilpOneer
   PORT=2000
   ```
 * Start the API server:
