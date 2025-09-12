@@ -70,7 +70,7 @@ export default function About() {
                 <h2 className="h5">Looking Forward</h2>
                 <p className="mb-3">We plan to grow ShilpOneer into a broader platform with partnerships, educational resources for artisans, improved logistics, and expanded product categories — all while keeping artisans at the center of every decision.</p>
                 <a
-                  href="https://github.com/RishavLaha3/ShilpOneer.git"
+                  href="https://github.com/Pritam029/ShilpOneer"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="btn btn-outline-secondary btn-sm"
