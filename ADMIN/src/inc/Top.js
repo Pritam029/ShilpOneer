@@ -160,7 +160,7 @@ const navigate = useNavigate();
           <div className="modal-content">
             <div className="modal-header">
               <h5 className="modal-title" id="logoutModalLabel">
-                Ready to Leave?
+                Sure!, are you Ready to Leave?
               </h5>
               <button
                 className="close"
